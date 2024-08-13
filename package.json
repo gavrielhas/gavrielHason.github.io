@@ -12,7 +12,7 @@
     "bootstrap": "^4.5.2",
     "checkout.js": "^2.1.21",
     "cp-react-px-shipping": "^1.1.18",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "final-form": "^4.20.1",
     "form-backend-validation": "^2.3.9",
     "gulp": "^4.0.2",
